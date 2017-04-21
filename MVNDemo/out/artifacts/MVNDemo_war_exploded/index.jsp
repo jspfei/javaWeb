@@ -16,8 +16,10 @@
 <form action="myController" method="post">
     <input name="name">
     return:${name}
-    <input value="提交" type="submit">
+   <input value="提交" type="submit">
 </form>
+
+<input value="test" type="submit" src="test.html">
 
 
 </body>
